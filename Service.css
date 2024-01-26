@@ -1,0 +1,21 @@
+.serviece{
+    display:grid;
+    grid-template-columns:repeat(3,1fr) ;
+    gap:40px;
+    margin-top:15px;
+    background-color:white;
+    justify-content: space-evenly;
+    padding-left:130px;
+    padding-right:170px;
+
+}
+.serviece-item
+{
+    font-size: 18px;
+    background-color:hotpink;
+    padding: 13px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
